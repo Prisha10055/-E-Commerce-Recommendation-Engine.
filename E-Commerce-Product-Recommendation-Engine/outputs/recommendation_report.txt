@@ -1,0 +1,2 @@
+Report for Prisha: [(11.45, 'Noise Cancelling Headphones'), (11.25, 'Wireless Mouse'), (3.1, 'Theory of Machines Textbook')]
+Report for Priscilla: [(8.35, 'Vegan Protein Bars'), (2.45, 'Noise Cancelling Headphones'), (2.4, 'Mechanical Keyboard')]
